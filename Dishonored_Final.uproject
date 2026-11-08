@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{25F1DD1A-4E42-5547-41A8-13A6CCC9B28F}",
+	"EngineAssociation": "{6E476E52-407D-BD66-7973-30BBC58AF31B}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,10 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "WaveformEditor",
 			"Enabled": true
 		}
 	]
